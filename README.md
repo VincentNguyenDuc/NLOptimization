@@ -10,6 +10,8 @@ Numerical methods for Nonlinear Regression Optimization
 
 ### Line Search
 
+### Automatic Differentiation
+
 ### Testing
 
 ### Benchmarks
