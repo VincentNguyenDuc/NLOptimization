@@ -14,6 +14,11 @@ Numerical methods for Nonlinear Regression Optimization
 
 ### Line Search
 
+#### Naive Approach
+
+- We can implement a simple line search is to ensure that the value of the objective function at the next position is smaller than the current position: f(x + some_direction) < f(x)
+- However, this approach may jump over a local minimum.
+
 #### Exact Linesearch
 
 - We can let the stepsize change based on Armijo conditions
