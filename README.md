@@ -39,9 +39,3 @@ Numerical methods for Nonlinear Regression Optimization
 
 - Allow us to evaluate without compute by hand
 - However, it will require additional computation at each iteration
-
-### Testing
-
-#### Dataset
-
-#### Fitting
